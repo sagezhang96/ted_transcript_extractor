@@ -41,7 +41,6 @@ python ted_transcript_extractor.py
 
 ## 🔍 支持的URL格式
 ✅ https://www.ted.com/talks/[talk_id]
-✅ https://www.ted.com/talks/[talk_id]/transcript
 
 
 ## 📄 导出格式
@@ -71,6 +70,13 @@ python ted_transcript_extractor.py
 ## 📜 许可证
 
 [MIT License](LICENSE) © 2024
+
+⚠️ 免责声明
+本项目仅供学习交流使用，请勿用于任何商业用途。使用本工具时请遵守以下原则：
+🔒 遵守 TED 的服务条款和版权规定
+📚 提取的内容仅用于个人学习
+⚖️ 请勿大量爬取或对 TED 服务器造成压力
+🚫 禁止将获取的内容用于商业用途
 
 
 <p align="center">Made with ❤️ by [Sage]</p>
